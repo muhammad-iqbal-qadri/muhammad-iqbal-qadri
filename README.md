@@ -1,5 +1,5 @@
 <h1 align="center">Hi, Iqbal Qadri Here</h1>
-<h3>Full Stack MERN Developer.</h3>
+<h3 align="center">Full Stack MERN Developer.</h3>
 - Exploring Different Tech in Industry<br>- Eager to Learn New Things in the world of Web Development<br>- Fun Fact: i write "Hello World" program several times a Day
 
 
